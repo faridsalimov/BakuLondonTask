@@ -32,7 +32,7 @@ namespace BakuLondonTask
         private void londonButton_MouseClick(object sender, MouseEventArgs e)
         {
             this.BackgroundImage = Properties.Resources.london;
-            dt = DateTime.Now.AddHours(-3);
+            dt = DateTime.Now.AddHours(-4);
         }
     }
 }
