@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BakuLondonTask", "BakuLondonTask\BakuLondonTask.csproj", "{4CAEDB4E-0841-4DAF-BDEE-85DF3BB13FEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CAEDB4E-0841-4DAF-BDEE-85DF3BB13FEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CAEDB4E-0841-4DAF-BDEE-85DF3BB13FEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CAEDB4E-0841-4DAF-BDEE-85DF3BB13FEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CAEDB4E-0841-4DAF-BDEE-85DF3BB13FEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1D616BD-2DC4-4812-87FD-1A0839548104}
+	EndGlobalSection
+EndGlobal
